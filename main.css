@@ -1,0 +1,24 @@
+@charset 'utf-8';
+html {
+font-family: 'Neue Haas Grotesk Text Pro', sans-serif;
+}
+body {
+  background: /*#a9acb1;*/#ff3000;
+}
+.main {
+  position: relative;
+}
+.bottom-copyright {
+  position: relative;
+  color: #000000;
+  align-items: flex-start;
+  justify-content: flex-start;
+  left: 1vw;
+  top: 1px;
+  font-size: 7px;
+  /*border: 1px solid green;*/
+
+}
+@media (min-width: 1024px) {
+
+}
